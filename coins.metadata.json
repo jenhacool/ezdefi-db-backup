@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ezdefi.coins"}],"uuid":"998f6c9039244220aa0d4abc8dac9672"}
